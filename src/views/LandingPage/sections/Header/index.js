@@ -1,17 +1,17 @@
 import './header.css';
 
 const Header = () =>{
-<header id="header">
-    <h1 id="logo"><a href="index.html">Guiate</a></h1>
-    <nav id="nav">
+<div className="header">
+    <h1 className="logo"><a href="index.html">Guiate</a></h1>
+    <nav className="nav">
         <ul>
             <li><a href="index.html">Home</a></li>
             <li>
                 <a href="#">Layouts</a>
                 <ul>
-                    <li><a href="left-sidebar.html">Left Sidebar</a></li>
-                    <li><a href="right-sidebar.html">Right Sidebar</a></li>
-                    <li><a href="no-sidebar.html">No Sidebar</a></li>
+                    <li><a href="left-sclassNameebar.html">Left SclassNameebar</a></li>
+                    <li><a href="right-sclassNameebar.html">Right SclassNameebar</a></li>
+                    <li><a href="no-sclassNameebar.html">No SclassNameebar</a></li>
                     <li>
                         <a href="#">Submenu</a>
                         <ul>
@@ -24,10 +24,10 @@ const Header = () =>{
                 </ul>
             </li>
             <li><a href="elements.html">Elements</a></li>
-            <li><a href="#" class="button primary">Sign Up</a></li>
+            <li><a href="#" className="button primary">Sign Up</a></li>
         </ul>
     </nav>
-</header>
+</div>
 }
 
 export default Header;
