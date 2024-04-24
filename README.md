@@ -1,3 +1,3 @@
-22 04 2024 I stopped with this project because I found that I need to practice more
+this project wont be use anymore, Why i do not delete it? every scar has the possibility to show you your previus mistake
 
 
